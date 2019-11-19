@@ -12,4 +12,4 @@ Inital findings that were interesting from pcaps after intial file execution
 
 ![malware_checking_connections](https://user-images.githubusercontent.com/42683298/69119465-ea701a00-0a53-11ea-8acb-2025905219eb.png)
 
-
+![not_good](https://user-images.githubusercontent.com/42683298/69119473-ef34ce00-0a53-11ea-826f-5cc3dd23cbd8.png)
