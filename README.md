@@ -26,3 +26,6 @@ Inital findings that were interesting from pcaps after intial file execution
 Some IOCs found were the use of uncommon ports 9001 9101
 
 ![port_9001](https://user-images.githubusercontent.com/42683298/69119636-75511480-0a54-11ea-9d9b-0182c6f4b591.png)
+
+![tor_instructions](https://user-images.githubusercontent.com/42683298/69119490-fc51bd00-0a53-11ea-9c91-5c45732c4204.png)
+
